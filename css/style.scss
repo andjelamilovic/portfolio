@@ -16,8 +16,6 @@
 @mixin for-lg-desktop-only {
   @media (min-width: 1600px) { @content; }
 }
-
-
 * {
   margin: 0;
   padding: 0;
