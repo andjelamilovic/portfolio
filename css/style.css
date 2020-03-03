@@ -409,7 +409,6 @@ h2 {
   height: inherit;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 7px;
 }
 
 .projects .list-description {
